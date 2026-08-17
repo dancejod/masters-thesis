@@ -40,7 +40,7 @@ The orthomosaics in this thesis were produced with OpenDroneMap v3.5.6 through t
 - `data/`: input data (from Zenodo; see above).
 - `results/`: generated outputs (created on running the notebooks).
 - `manuscript/`: the thesis itself.
-- `tools/` — bundled utilities (ExifTool).
+- `tools/`: bundled utilities.
 
 ## Notebooks
 
@@ -61,7 +61,7 @@ The data archive on Zenodo is released under the [Creative Commons Attribution 4
 
 This work was supervised by doc. RNDr. Lucie Kupková, Ph.D.
 
-Field data collection was carried out with the TILSPEC team; the participants were Dr Lucie Červená, Dr Jakub Lysák, Dr Záboj Hrázský and the flights were piloted by Ing. Jan Fechtner. Dr Julius Česák constructed the thermal calibration plates and the on-site weather station.
+Field data collection was carried out with the [Team of Image and Laboratory Spectroscopy (TILSPEC)](https://www.tilspec.cz/); the participants were Dr Lucie Červená, Dr Jakub Lysák, Dr Záboj Hrázský, and the flights were piloted by Ing. Jan Fechtner. Dr Julius Česák constructed the thermal calibration plates and the on-site weather station. A dear colleague Eliška Pospěchová also kindly offered to provide company during one campaign in summer 2025.
 
 Advice on the physics of thermal remote sensing was provided by doc. Ing. Josef Kolář, CSc.; on conducting thermal UAV surveys by Dr Jennifer Susan Adams (University of Zurich); and on the validation of thermal data by Quanxing Wan (Wageningen University) and Simon Grieger (University of Göttingen).
 
