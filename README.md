@@ -65,4 +65,6 @@ Field data collection was carried out with the [Team of Image and Laboratory Spe
 
 Advice on the physics of thermal remote sensing was provided by doc. Ing. Josef Kolář, CSc.; on conducting thermal UAV surveys by Dr Jennifer Susan Adams (University of Zurich); and on the validation of thermal data by Quanxing Wan (Wageningen University) and Simon Grieger (University of Göttingen).
 
+The template used for this thesis was created by Dr Martin Fleischmann, available [here](https://github.com/uscuni/quarto-thesis-template), licensed under Creative Commons CC-BY-4.0.
+
 This thesis was supported by the European Commission Horizon Europe programme, project No. 101081307, "Towards Sustainable Land-Use in the Context of Climate Change and Biodiversity in Europe (Europe-LAND)".
