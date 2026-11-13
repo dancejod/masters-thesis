@@ -68,3 +68,16 @@ Advice on the physics of thermal remote sensing was provided by doc. Ing. Josef 
 The template used for this thesis was created by Dr Martin Fleischmann, available [here](https://github.com/uscuni/quarto-thesis-template), licensed under Creative Commons CC-BY-4.0.
 
 This thesis was supported by the European Commission Horizon Europe programme, project No. 101081307, "Towards Sustainable Land-Use in the Context of Climate Change and Biodiversity in Europe (Europe-LAND)".
+
+---
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
